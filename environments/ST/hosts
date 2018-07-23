@@ -1,0 +1,4 @@
+# inventory file for ST target machines
+localtime:                       #Specify the first group name
+  hosts:
+     vm400008560.nl.levent.com:
