@@ -1,0 +1,6 @@
+---
+# the main playbook for installation of COTS applications on local vagrant box
+# and contains list of hosts and roles to be executed against those hosts.
+- hosts: localtime
+  roles:
+  - localtime
